@@ -51,3 +51,6 @@ int main(){
 	printf("\nAverage Turnaround Time:%.2f",avgtt);
 	return 0;
 	}						
+
+
+
