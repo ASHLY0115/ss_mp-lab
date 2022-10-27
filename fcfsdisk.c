@@ -23,3 +23,6 @@ int main(){
     printf("Total Head movement :- %d",TotalHeadM);
     return 0;
 }
+
+
+
