@@ -1,0 +1,11 @@
+COPY     START      2000
+**       LDA        FIVE
+**       STA        ALPHA
+**       LDCH       CHARZ
+**       STCH       C1
+ALPHA    RESW       1 
+FIVE     WORD       D5
+CHARZ    BYTE       C'E'
+C1       RESW       1
+**       END        **
+
